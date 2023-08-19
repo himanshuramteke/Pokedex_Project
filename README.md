@@ -14,7 +14,7 @@ Pokédex App is a web application built using ReactJS that allows users to explo
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/pokedex-app.git
+   git clone https://github.com/himanshuramteke/Pokedex_Project.git
    cd pokedex-app
    npm install
    npm run dev
